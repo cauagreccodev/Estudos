@@ -1,0 +1,30 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: gcc.exe build active file",
+			"command": "C:\\MinGW\\bin\\gcc.exe", // Mude de g++ para gcc
+			"args": [
+				// Substitua a sua lista de args por:
+				"-g",
+				"${fileDirname}/main.c",        // FORÇA a inclusão do main.c
+				"${fileDirname}/pilha.c",       // FORÇA a inclusão do pilha.c (o que faltava!)
+				"-o",
+				"${fileDirname}/output/meuprograma.exe", // Arquivo de saída (ajuste o nome se precisar)
+				"-mconsole",                    // Flag de console
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: C:\\MinGW\\bin\\gcc.exe"
+		}
+	]
+}

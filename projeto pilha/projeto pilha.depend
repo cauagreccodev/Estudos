@@ -1,0 +1,263 @@
+# depslib dependency file v1.0
+1760972780 source:c:\users\madur\downloads\estudos\projeto pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1761781762 c:\users\madur\downloads\estudos\projeto pilha\pilha.h
+
+1762879421 source:c:\users\madur\downloads\estudos\projeto pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1762268204 source:c:\users\madur\downloads\estudos\projeto pilha\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1761929893 c:\users\madur\downloads\estudos\projeto pilha\fila.h
+
+1761057004 source:c:\users\madur\downloads\estudos\projeto pilha\ex 1.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+
+1761507136 source:c:\users\madur\downloads\estudos\projeto pilha\calculadora aritmetica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilhaop.h"
+	"pilhanum.h"
+	"fila.h"
+
+1761505817 c:\users\madur\downloads\estudos\projeto pilha\pilhaop.h
+
+1761506334 source:c:\users\madur\downloads\estudos\projeto pilha\pilhaop.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaop.h"
+
+1761506239 source:c:\users\madur\downloads\estudos\projeto pilha\pilhanum.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhanum.h"
+
+1761506239 c:\users\madur\downloads\estudos\projeto pilha\pilhanum.h
+
+1761782995 source:c:\users\madur\downloads\estudos\projeto pilha\ex 2.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1761833735 source:c:\users\madur\downloads\estudos\projeto pilha\ex 3.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1761835136 source:c:\users\madur\downloads\estudos\projeto pilha\ex 4.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1761836685 source:c:\users\madur\downloads\estudos\projeto pilha\ex 5.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1761932218 source:c:\users\madur\downloads\estudos\projeto pilha\ex 2 fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1761934230 source:c:\users\madur\downloads\estudos\projeto pilha\ex 3 fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"pilha.h"
+
+1762178125 source:c:\users\madur\downloads\estudos\projeto pilha\ex 4 fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1762180726 source:c:\users\madur\downloads\estudos\projeto pilha\ex 5 fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"pilha.h"
+
+1762267415 source:c:\users\madur\downloads\estudos\projeto pilha\ex 6 fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"pilha.h"
+
+1762351794 source:c:\users\madur\downloads\estudos\projeto pilha\ex 1 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1762353406 c:\users\madur\downloads\estudos\projeto pilha\lista.h
+
+1762440855 source:c:\users\madur\downloads\estudos\projeto pilha\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1762352724 source:c:\users\madur\downloads\estudos\projeto pilha\ex 2 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1762356098 source:c:\users\madur\downloads\estudos\projeto pilha\ex 3 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1762439210 source:c:\users\madur\downloads\estudos\projeto pilha\ex 4 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1762440986 source:c:\users\madur\downloads\estudos\projeto pilha\ex 5 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1762443623 source:c:\users\madur\downloads\estudos\projeto pilha\ex 5 recursividade.c
+	<stdio.h>
+
+1762533791 source:c:\users\madur\downloads\estudos\projeto pilha\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762527392 c:\users\madur\downloads\estudos\projeto pilha\arvore.h
+
+1762527392 source:c:\users\madur\downloads\estudos\projeto pilha\ex 1 arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762531876 source:c:\users\madur\downloads\estudos\projeto pilha\ex 3 arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762534222 source:c:\users\madur\downloads\estudos\projeto pilha\ex 4 arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762744541 source:c:\users\madur\downloads\estudos\projeto pilha\conta_pares.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762783154 source:c:\users\madur\downloads\estudos\projeto pilha\ex 5 arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762785747 source:c:\users\madur\downloads\estudos\projeto pilha\ex 7 arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762787357 source:c:\users\madur\downloads\estudos\projeto pilha\ex 9 arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1762871348 source:c:\users\madur\downloads\estudos\projeto pilha\ex 6 pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1762879729 source:c:\users\madur\downloads\estudos\projeto pilha\ex 7 pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1763063069 source:c:\users\madur\downloads\estudos\projeto pilha\ex 1 revisao.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1762966882 source:c:\users\madur\downloads\estudos\projeto pilha\ex 2 revisao.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1762969005 source:c:\users\madur\downloads\estudos\projeto pilha\ex 3 revisao.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764169613 source:c:\users\madur\downloads\estudos\projeto pilha\ex 6 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764172508 source:c:\users\madur\downloads\estudos\projeto pilha\ex 8 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764199224 source:c:\users\madur\downloads\estudos\projeto pilha\ex 9 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764200744 source:c:\users\madur\downloads\estudos\projeto pilha\ex 10 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764256790 source:c:\users\madur\downloads\estudos\projeto pilha\ex 11 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764258192 source:c:\users\madur\downloads\estudos\projeto pilha\ex 12 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764296078 source:c:\users\madur\downloads\estudos\projeto pilha\ex 13 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764342356 source:c:\users\madur\downloads\estudos\projeto pilha\ex 14 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764372700 source:c:\users\madur\downloads\estudos\projeto pilha\ex 15 lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764373594 source:c:\users\madur\downloads\estudos\projeto pilha\ex 11 lista 2.0.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764551814 source:c:\users\madur\downloads\estudos\projeto pilha\ex 16 lista correcao prova.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764557798 source:c:\users\madur\downloads\estudos\projeto pilha\ex 7 fila revisao prova.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1764559225 source:c:\users\madur\downloads\estudos\projeto pilha\ex 8 pilha revisao prova.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

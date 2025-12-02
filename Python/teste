@@ -1,0 +1,3 @@
+
+a = str(input('digite seu nome:'))
+print(f'ola {a}')
